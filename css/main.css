@@ -2,6 +2,7 @@
 @import 'header.css';
 @import 'main-content.css';
 @import 'boxes.css';
+@import 'btn-reset.css';
 
 body {
     background-color: gray;
