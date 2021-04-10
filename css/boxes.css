@@ -1,0 +1,149 @@
+.primera {
+    width: 125px;
+    height: 50px;
+    background-color: #F4D03F;
+    position: absolute;
+  }
+  
+  .segunda {
+    width: 125px;
+    height: 50px;
+    background-color: #D4AC0D;
+    margin-left: 125px;
+    position: absolute;
+  }
+  
+  .tercera {
+    width: 125px;
+    height: 50px;
+    background-color: #9A7D0A;
+    margin-left: 250px;
+    position: absolute;
+  }
+  
+  .cuarta {
+    width: 125px;
+    height: 50px;
+    background-color: #F5B041;
+    margin-left: 375px;
+  }
+  
+  .quinta {
+    width: 125px;
+    height: 50px;
+    background-color: #BF7F3F;
+    position: absolute;
+  }
+  
+  .sexta {
+    width: 125px;
+    height: 50px;
+    background-color: #BFBF3F;
+    margin-left: 125px;
+    position: absolute;
+  }
+  
+  .septima {
+    width: 125px;
+    height: 50px;
+    background-color: #B2B24C;
+    margin-left: 250px;
+    position: absolute;
+  }
+  
+  .octava {
+    width: 125px;
+    height: 50px;
+    background-color: #999966;
+    margin-left: 375px;
+  }
+
+  .novena {
+    width: 125px;
+    height: 50px;
+    background-color: #996666;
+    position: absolute;
+  }
+  
+  .decima {
+    width: 125px;
+    height: 50px;
+    background-color: #99667F;
+    margin-left: 125px;
+    position: absolute;
+  }
+  
+  .once {
+    width: 125px;
+    height: 50px;
+    background-color: #997F66;
+    margin-left: 250px;
+    position: absolute;
+  }
+  
+  .doce {
+    width: 125px;
+    height: 50px;
+    background-color: #996699;
+    margin-left: 375px;
+  }
+
+  .trece {
+    width: 125px;
+    height: 50px;
+    background-color: #999966;
+    position: absolute;
+  }
+  
+  .catorce {
+    width: 125px;
+    height: 50px;
+    background-color: #666699;
+    margin-left: 125px;
+    position: absolute;
+  }
+  
+  .quince {
+    width: 125px;
+    height: 50px;
+    background-color: #669966;
+    margin-left: 250px;
+    position: absolute;
+  }
+  
+  .dieciseis {
+    width: 125px;
+    height: 50px;
+    background-color: #667F99;
+    margin-left: 375px;
+  }
+
+  .diecisiete {
+    width: 125px;
+    height: 50px;
+    background-color: #66997F;
+    position: absolute;
+  }
+  
+  .dieciocho {
+    width: 125px;
+    height: 50px;
+    background-color: #669999;
+    margin-left: 125px;
+    position: absolute;
+  }
+  
+  .diecinueve {
+    width: 125px;
+    height: 50px;
+    background-color: #9A7D0A;
+    margin-left: 250px;
+    position: absolute;
+  }
+  
+  .vente {
+    width: 125px;
+    height: 50px;
+    background-color: #F5B041;
+    margin-left: 375px;
+  }
