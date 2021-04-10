@@ -1,0 +1,11 @@
+.head {
+    width: 100%;
+    background-color: honeydew;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.head-title {
+    font-size: 40px;
+}

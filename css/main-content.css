@@ -1,0 +1,7 @@
+#contenedor {
+    margin: auto;
+    background-image: url(https://placeimg.com/640/480/animals);
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+ }
